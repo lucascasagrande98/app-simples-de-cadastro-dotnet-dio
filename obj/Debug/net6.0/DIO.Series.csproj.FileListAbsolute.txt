@@ -1,0 +1,15 @@
+D:\workspace\C#\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+D:\workspace\C#\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+D:\workspace\C#\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+D:\workspace\C#\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+D:\workspace\C#\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+D:\workspace\C#\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+D:\workspace\C#\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+D:\workspace\C#\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+D:\workspace\C#\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\workspace\C#\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+D:\workspace\C#\DIO.Series\obj\Debug\net6.0\refint\DIO.Series.dll
+D:\workspace\C#\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+D:\workspace\C#\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
+D:\workspace\C#\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
